@@ -1,2 +1,2 @@
 # Not-Uygulamas-
-Swift ile Not Kaydetme
+Bu proje, Swift ve UIKit kullanılarak geliştirilmiş, Storyboard tabanlı pratik bir not alma uygulamasıdır. Sayfalar arası veri transferi için Delegate Pattern mimarisi kullanılmıştır. Kullanıcılar başlık ve açıklama içeren notlar oluşturabilir ve bunları UITableView üzerinde dinamik olarak listeleyebilir. iOS geliştirmede veri taşıma ve liste yapılarını anlamak için ideal bir örnektir."
